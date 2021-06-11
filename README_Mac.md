@@ -17,7 +17,7 @@ Steps to enable scrcpy on your android device :
 
 :arrow_right: Check your mobile, Gotcha! You should see a prompt Allow USB Debugging on this device and some RSA fingerprint key.
 
-:arrow_right: Tick the checkbox saying "Always Allow Debugging on this computer".
+:arrow_right: Tick the checkbox saying "Always Allow Debugging on this computer" and click ok..
 
 Simply install scrcpy with :
 
