@@ -3,10 +3,11 @@ while true; do
 If You have already downloaded scrcpy type "d" [Y/N/D]" ynd
     case $ynd in
         [Yy]* ) while true; do
-    read -p "Type "Debian", "Arch", "ManualBuild",
+    read -p "Type "Debian", "Arch", "ManualBuild", "Git",
 or "Snap" for your desired distribution. Option MaunualBuild is
 only available for Debian/Ubuntu :" lidi
     case $lidi in
+        [Git]* ) git clone https://github.com/Coder-Takshil/scrcpy.git;break;;
         [Debian]* ) sudo apt install scrcpy;sleep 5;break;;
         [Arch]* ) git clone https://aur.archlinux.org/scrcpy.git;cd scrcpy;./install_release.sh;break;;
         [ManualBuild]* ) # for Debian/Ubuntu
