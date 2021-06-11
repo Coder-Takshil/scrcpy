@@ -3,7 +3,7 @@ License and Copyright of scrcpy goes to Genymotion, reach them out at https://gi
 
 Copyright of scrcpy : :copyright: Genymotion
 
-Copyright of automator program : :copyright: TackyGaming6 (Coder_Takshil)
+Copyright of automator program : :copyright: Coder-Takshil
 
 :left_right_arrow: Currently Genymotion - scrcpy and my project only supports the distributions : Windows, Linux and Mac. 
 
