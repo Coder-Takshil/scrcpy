@@ -5,6 +5,8 @@ License and Copyright of scrcpy goes to Genymotion, reach them out at https://gi
 
 :copyright: of automator program : TackyGaming6 (Coder_Takshil)
 
+:left_right_arrow: Currently Genymotion - scrcpy and my project only supports the distributions : Windows, Linux and Mac. 
+
 It focuses on:
 
 :arrow_right: lightness-native, displays only the device screen
