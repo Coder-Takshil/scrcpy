@@ -1,6 +1,7 @@
 This is the automator app for the mobile emulator scrcpy.
 Understand more about scrcpy at my README.md.
 
+
 Steps to enable scrcpy on your android device :
 
 
