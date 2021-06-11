@@ -1,5 +1,7 @@
 # scrcpy
-License of scrcpy goes to Genymotion, reach them out at https://github.com/Genymobile/scrcpy
+License and Copyright of scrcpy goes to Genymotion, reach them out at https://github.com/Genymobile/scrcpy
+:copyright: of scrcpy : Genymotion
+:copyright: of automator program : TackyGaming6 (Coder_Takshil)
 It focuses on:
 
 :arrow_right: lightness-native, displays only the device screen
