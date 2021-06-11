@@ -19,9 +19,9 @@ Steps to enable scrcpy on your android device :
 Steps to install the Folder on Windows : 
 :arrow_right: Just install the folder or .zip file from this link: https://www.mediafire.com/folder/j55athrxs9vwa/scrcpy
 Or,
-:arrow_right: If you are not able to install from the mediafire website, Download scrcpy from the .zip file: scrcpy-win64-v1.17.zip provided in : https://github.com/TackyGaming6/scrcpy
+:arrow_right: If you are not able to install from the mediafire website, Download scrcpy from the .zip file: scrcpy-win64-v1.17.zip provided in : https://github.com/Coder-Takshil/scrcpy
 
-:arrow_right: Extract the file and copy the files : Scrcpy_automater_for_users64bit.exe and scrcpy_for_users32bit.bat provided in : https://github.com/TackyGaming6/scrcpy : to the extracted folder of scrcpy-win64-v1.17 and perform the steps below.
+:arrow_right: Extract the file and copy the files : Scrcpy_automater_for_users64bit.exe and scrcpy_for_users32bit.bat provided in : https://github.com/Coder-Takshil/scrcpy : to the extracted folder of scrcpy-win64-v1.17 and perform the steps below.
 
 Steps to install scrcpy on Windows :
 
@@ -35,7 +35,7 @@ Steps to install scrcpy on Windows :
 
 :arrow_right: After then you know what you have to do.
 
-Want more help reach me out at the issues column : https://github.com/TackyGaming6/scrcpy/issues
+Want more help reach me out at the issues column : https://github.com/Coder-Takshil/scrcpy/issues
 Or,
 :arrow_right: Press Windows key + R, In the prompt type : cmd.exe and press Enter Key.
 
@@ -47,4 +47,4 @@ Or,
 
 :x: If you get a "TRY A LOWER DEFINITION ERROR" with "more than one device/emulator", error then find your device with : adb devices -l and then start scrcpy with : scrcpy -m 1900 -s xxxxxxxxxxxxxxxx (Where xxxxxxxxxxx is the device serial number)
 
-If you get more errors feel free to create an issue at : https://github.com/TackyGaming6/scrcpy/issues
+If you get more errors feel free to create an issue at : https://github.com/Coder-Takshil/scrcpy/issues
