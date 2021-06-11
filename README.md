@@ -1,4 +1,5 @@
 # scrcpy
+License of scrcpy goes to Genymotion reach them out at https://github.com/Genymobile/scrcpy
 This is the automate app for the mobile emulator scrcpy  
 For Now I only support Windows a linux edition will be 
 made soon by me Just install the Folder 
