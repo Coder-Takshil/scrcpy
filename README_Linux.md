@@ -19,6 +19,10 @@ Steps to enable scrcpy on your android device :
 
 Steps to install scrcpy :
 
+Sorry for bad shell scripting in advance. Please give your suggestions so that I can update my .sh file
+
+
+
 Or,
 
 :arrow_right: If you get a "TRY A LOWER DEFINITION ERROR", try using scrcpy with : scrcpy -m 1900.
