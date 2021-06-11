@@ -1,5 +1,5 @@
 # scrcpy
-License of scrcpy goes to Genymotion reach them out at https://github.com/Genymobile/scrcpy
+License of scrcpy goes to Genymotion, reach them out at https://github.com/Genymobile/scrcpy
 It focuses on:
 
 :arrow_right: lightness-native, displays only the device screen
