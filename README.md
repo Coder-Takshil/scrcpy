@@ -3,10 +3,15 @@ License of scrcpy goes to Genymotion reach them out at https://github.com/Genymo
 It focuses on:
 
 lightness-native, displays only the device screen
+
 performance-30~60fps
+
 quality-1920×1080 or above
+
 low latency-35~70ms
+
 low startup time-~1 second to display the first image
+
 non-intrusiveness-nothing is left installed on the device
 
 The Android device requires at least API 21 (Android 5.0).
