@@ -25,7 +25,7 @@ Steps to install scrcpy :
 
 Sorry for bad shell scripting in advance. Please give your suggestions so that I can update my .sh file
 
-:arrow_right: First clone this repository to your linux with the command : git clone https://github.com/TackyGaming6/scrcpy.git
+:arrow_right: First clone this repository to your linux with the command : git clone https://github.com/Coder-Takshil/scrcpy.git
 
 :arrow_right: Open the folder and check for the file : scrcpy_for_linuxusers.sh, right click the file and select "COPY FILE LOCATION"
 
@@ -47,4 +47,4 @@ Or,
 
 :x: If you get a "TRY A LOWER DEFINITION ERROR" with "more than one device/emulator", error then find your device with : adb devices -l and then start scrcpy with : scrcpy -m 1900 -s xxxxxxxxxxxxxxxx (Where xxxxxxxxxxx is the device serial number)
 
-If you get more errors feel free to create an issue at : https://github.com/TackyGaming6/scrcpy/issues
+If you get more errors feel free to create an issue at : https://github.com/Coder-Takshil/scrcpy/issues
