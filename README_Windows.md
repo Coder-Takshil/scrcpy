@@ -1,6 +1,5 @@
 This is the automator app for the mobile emulator scrcpy.
 Understand more about scrcpy at my README.md.
-
 Steps to enable scrcpy on your android device :
 
 :arrow_right: Go to settings>About Phone ----> And tap the build number several times till a pop up saying "You Are Already A Developer" or if your device is protected with a screen lock there will be a prompt to confirm it's you, Enter the Pin/Password/Pattern/Fingerprint/Face unlock. (In some cases : Settings>System>About phone)
@@ -18,11 +17,8 @@ Steps to enable scrcpy on your android device :
 :arrow_right: Tick the checkbox saying "Always Allow Debugging on this computer" and click ok.
 
 Steps to install the Folder on Windows : 
-
 :arrow_right: Just install the folder or .zip file from this link: https://www.mediafire.com/folder/j55athrxs9vwa/scrcpy
-
 Or,
-
 :arrow_right: If you are not able to install from the mediafire website, Download scrcpy from the .zip file: scrcpy-win64-v1.17.zip provided in : https://github.com/TackyGaming6/scrcpy
 
 :arrow_right: Extract the file and copy the files : Scrcpy_automater_for_users64bit.exe and scrcpy_for_users32bit.bat provided in : https://github.com/TackyGaming6/scrcpy : to the extracted folder of scrcpy-win64-v1.17 and perform the steps below.
@@ -40,9 +36,7 @@ Steps to install scrcpy on Windows :
 :arrow_right: After then you know what you have to do.
 
 Want more help reach me out at the issues column : https://github.com/TackyGaming6/scrcpy/issues
-
 Or,
-
 :arrow_right: Press Windows key + R, In the prompt type : cmd.exe and press Enter Key.
 
 :arrow_right: On the Command Line cd into the directory of scrcpy with : cd path\to\file (To find : Open Windows explorer with : Windows key + E and go to the directory and besides the Search Tab, click the empty space and copy the path and replace path\to\file with the path you copied.)
