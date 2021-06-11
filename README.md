@@ -1,9 +1,9 @@
 # scrcpy
 License and Copyright of scrcpy goes to Genymotion, reach them out at https://github.com/Genymobile/scrcpy
 
-:copyright: of scrcpy : Genymotion
+Copyright of scrcpy : :copyright: Genymotion
 
-:copyright: of automator program : TackyGaming6 (Coder_Takshil)
+Copyright of automator program : :copyright: TackyGaming6 (Coder_Takshil)
 
 :left_right_arrow: Currently Genymotion - scrcpy and my project only supports the distributions : Windows, Linux and Mac. 
 
