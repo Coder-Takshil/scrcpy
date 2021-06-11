@@ -4,7 +4,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.17    | :white_check_mark: |
+| 1.17    | :heavy_check_mark: |
 | <1.17   | :x:                |
 
 
